@@ -3,6 +3,7 @@ layout: post
 title:  "Delta Printer"
 date:   2019-07-20 20:25:12 -0400
 categories: mechanical
+img: panel_pin_locations.png
 ---
 
 Delta printer I made
