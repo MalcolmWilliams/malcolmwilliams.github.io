@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T22:17:10-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Malcolm Williams</title><subtitle>Various tech projects</subtitle><entry><title type="html">Markdown Example</title><link href="http://localhost:4000/markdown/2019/07/21/markdown-example.html" rel="alternate" type="text/html" title="Markdown Example" /><published>2019-07-21T20:25:12-04:00</published><updated>2019-07-21T20:25:12-04:00</updated><id>http://localhost:4000/markdown/2019/07/21/markdown-example</id><content type="html" xml:base="http://localhost:4000/markdown/2019/07/21/markdown-example.html">&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;del&gt;strikethrough&lt;/del&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-24T23:47:28-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Malcolm Williams</title><subtitle>Various tech projects</subtitle><entry><title type="html">Markdown Example</title><link href="http://localhost:4000/markdown/2019/07/21/markdown-example.html" rel="alternate" type="text/html" title="Markdown Example" /><published>2019-07-21T20:25:12-04:00</published><updated>2019-07-21T20:25:12-04:00</updated><id>http://localhost:4000/markdown/2019/07/21/markdown-example</id><content type="html" xml:base="http://localhost:4000/markdown/2019/07/21/markdown-example.html">&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;del&gt;strikethrough&lt;/del&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;./another-page.html&quot;&gt;Link to another page&lt;/a&gt;.&lt;/p&gt;
 
@@ -188,4 +188,37 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a quick test with adding another post</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a quick test with adding another post</summary></entry><entry><title type="html">Plasma Tube</title><link href="http://localhost:4000/science/2019/07/07/plasma_tube.html" rel="alternate" type="text/html" title="Plasma Tube" /><published>2019-07-07T12:00:00-04:00</published><updated>2019-07-07T12:00:00-04:00</updated><id>http://localhost:4000/science/2019/07/07/plasma_tube</id><content type="html" xml:base="http://localhost:4000/science/2019/07/07/plasma_tube.html">&lt;p&gt;First, the end result
+&lt;img src=&quot;http://localhost:4000/assets/plasma_tube/big_tube_on.jpg&quot; alt=&quot;big_tube_on&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve always liked the neat glow from a hobby fusor, so when I realized I had basically all the parts required and a weekend free I decided to give it a shot. You might notice the first picture doesn’t look anything like a typical fusor. Originally the plan was to build something much more traditional but I had to get creative along the way.&lt;/p&gt;
+
+&lt;p&gt;The first design was an acrilic tube (~1.5 inch ID and 6 inch long), two aluminum end caps with o-rings and M5 threaded rod to hold everything together. The top plate has a vacuum inlet, and the bottom plate has a sparkplug that acts as a high voltage feedthrough.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/plasma_tube/spark_plug_annode.jpg&quot; alt=&quot;spark_plug_annode&quot; /&gt;
+&lt;em&gt;Copper annode with spark plug high voltage feed through&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/plasma_tube/spark_plug_assembled.jpg&quot; alt=&quot;spark_plug_assembled&quot; /&gt;
+&lt;em&gt;Complete assembly with aluminum endcaps and acrylic tube&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Making the endcaps actually took the longest because the four jaw chuck for the taig lathe was broken. It had been dropped earlier and a section of the thread on the cast iron jaw had broken and was caught in the adjustment threads. It wasn’t possible to extract it and eventually I sheared the adjustment screw. Luckily that gave me access to the internals so i could clear out the blockage with a pick, cut out a slot in the broken screw and extract everything. I then had to make a new adjustment screw using the three jaw chuck.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/plasma_tube/new_screw_progress.jpg&quot; alt=&quot;new_screw_progress&quot; /&gt;
+&lt;em&gt;Homemade adjustement screw in progress&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/plasma_tube/new_screw_complete.jpg&quot; alt=&quot;new_screw_complete&quot; /&gt;
+&lt;em&gt;Checking the fit&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/plasma_tube/endcap_in_4jaw.jpg&quot; alt=&quot;endcap_in_4jaw&quot; /&gt;
+&lt;em&gt;New screw in action&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;With all the necessary tools the endcaps were quick. I then made a vacuum hose fitting. I decided on a slip fit and epoxy for simplicity. I roughed out the shape with the taper attachement and then eyeballed the rest. I made sure to polish well to acheive a good seal on the tube.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/plasma_tube/barb_taper.jpg&quot; alt=&quot;barb_taper&quot; /&gt;
+&lt;em&gt;Received some help cutting the taper&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/plasma_tube/barb_complete.jpg&quot; alt=&quot;barb_complete&quot; /&gt;
+&lt;em&gt;Hose barb complete and ready for parting&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/plasma_tube/pre_epoxy.jpg&quot; alt=&quot;pre_epoxy&quot; /&gt;
+&lt;em&gt;Major metal components ready for epoxy&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">First, the end result</summary></entry></feed>
