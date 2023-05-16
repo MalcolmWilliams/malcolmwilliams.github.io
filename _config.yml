@@ -40,3 +40,14 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  category: 
+    output: True
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: category

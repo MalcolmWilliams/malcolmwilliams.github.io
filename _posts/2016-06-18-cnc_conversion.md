@@ -2,7 +2,7 @@
 layout: post
 title:  "CNC Conversion"
 date:   2016-06-18 12:00:00 -0400
-tags: mechanical
+categories: [mechanical]
 img: /cnc_conversion/finished_mech_conversion.jpeg
 ---
 

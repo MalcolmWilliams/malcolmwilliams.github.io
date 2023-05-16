@@ -2,7 +2,7 @@
 layout: post
 title:  "Delta 3D Printer"
 date:   2015-03-09 12:00:00 -0400
-categories: [science]
+categories: [mechanical]
 img: /delta_3d_printer/render.jpeg
 ---
 

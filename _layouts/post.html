@@ -1,0 +1,92 @@
+---
+layout: default
+---
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+      <div class="tags">
+          {% assign sortedCategories = page.categories | sort %}
+          {% for category in sortedCategories %}
+              <span class="tag">
+                  <a href="/category/{{ category }}">#{{ category }}</a>
+              </span>
+          {% endfor %}
+      </div>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
+  </header>
+
+  <style>
+   .wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+ /* CSS for main content */
+      #main {
+        float: left;
+        width: 70%;
+        padding: 0 10px;
+      }
+      /* CSS for sidebar */
+      #sidebar {
+        float: left;
+        width: 20%;
+        padding: 0 10px;
+      }
+      /* Clearfix to fix float issues */
+      .clearfix:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+    /* Media query for smaller screens */
+    @media screen and (max-width: 768px) {
+        #main, #sidebar {
+          width: 100%;
+          float: none;
+        }
+      }
+  </style>
+
+  <div class = "clearfix">
+
+
+    <div id = "main" class="post-content e-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+    <!-- Add a related post link -->
+    <div id="sidebar" class="related">
+
+      <h3>Related Posts</h3>
+      <ul>
+      {% assign firstCategory = page.categories | first %}
+      {% assign relatedCount = 0 %}
+      {% for related in site.categories[firstCategory] %}
+          {% unless page.id == related.id %}
+
+        <li><a href="{{related.id}}">{{ related.title }}</a></li>
+            {% assign relatedCount = relatedCount | plus: 1 %}
+          {% endunless %}
+          {% if relatedCount == 3 %}
+              {% break %}
+          {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
