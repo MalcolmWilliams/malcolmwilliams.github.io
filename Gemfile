@@ -41,3 +41,5 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 gem "faraday-retry", "~> 2.1"
 
 gem "webrick", "~> 1.8"
+
+gem "bundler-stats", "~> 2.3"
