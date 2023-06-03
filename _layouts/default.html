@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+  <script src="{{ site.baseurl }}/node_modules/medium-zoom/dist/medium-zoom.min.js"></script>
+
+    {%- include header.html -%}
+
+    <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image" data-zoomable>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  <script>
+    mediumZoom('img[data-zoomable]');
+  </script>
+  </body>
+
+</html>
