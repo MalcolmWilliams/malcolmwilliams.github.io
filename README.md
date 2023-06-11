@@ -15,3 +15,11 @@ bundle exec jekyll serve
 ```
 
 View the site at: `http://localhost:4000`
+
+# Tips:
+
+Helpful script to convert `*.HEIC` images to jpg: 
+```
+sudo apt-get install libheif-examples
+for file in *.HEIC; do heif-convert $file ${file/%.HEIC/.jpg}; done
+```
