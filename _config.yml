@@ -26,11 +26,10 @@ github_username:  malcolmwilliams
 # Build settings
 markdown: kramdown
 
-remote_theme: jekyll/minima
+theme: minima
 plugins:
       - jekyll-feed
       - jekyll-seo-tag
-      - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
