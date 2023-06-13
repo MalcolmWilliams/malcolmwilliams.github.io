@@ -1,0 +1,22 @@
+exclude: >
+  (?x)^(
+  node_modules/
+  )$
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.2.0
+    hooks:
+      - id: check-added-large-files # prevents giant files from being committed
+      - id: check-json # checks json files for parseable syntax
+      - id: check-toml # checks toml files for parseable syntax
+      - id: check-yaml # checks yaml files for parseable syntax...
+        exclude: ^(?:charts|ci)(?:\/[^\/]+)+?\/templates(?:\/[^\/]+)*?\/[^\/]*\.(?:yaml|yml) # ...excluding YAML templates
+        args:
+          - --allow-multiple-documents
+      - id: detect-private-key # detects the presence of private keys
+      - id: end-of-file-fixer # ensures that a file is either empty or engs with one newline
+      - id: trailing-whitespace # trims trailing whitespace
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: v2.7.1
+    hooks:
+      - id: prettier
