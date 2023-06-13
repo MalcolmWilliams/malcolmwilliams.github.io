@@ -1,0 +1,38 @@
+{% assign media = site.baseurl | append: "assets/" | append: include.prefix %}
+{% assign imgs_split = include.imgs  | split: "," %}
+
+  <style>
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-gap: 10px;
+    }
+
+    .grid-item {
+      display: flex;
+      justify-content: center;
+    }
+
+    .grid-item img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  </style>
+<div class="grid-container">
+  {% for img in imgs_split %}
+        <div class="grid-item">
+<style>
+  figure {
+    text-align: center;
+  }
+</style>
+
+<figure>
+      <a href="/{{media}}/{{img}}" data-lightbox="default-gallery">
+        <img src="/{{media}}/{{img}}">
+  </a>
+</figure>
+        </div>
+    {% endfor %}
+</div>
