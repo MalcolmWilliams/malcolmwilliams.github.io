@@ -9,14 +9,14 @@ img: /delta_3d_printer/render.jpeg
 This 3D printer was a challenging mechanical project. I started it in the first year of my undergrad and finished it while on Chirstmas break.
 
 {% include image.html
-file = "delta_3d_printer/render.jpeg"
+file = "delta_3d_printer/render"
 caption = "Render of the final design"
 %}
 
 The printer quickly became one of my most useful tools and has assisted numerous other projects.
 
 {% include image.html
-file = "delta_3d_printer/controller_debug.png"
+file = "delta_3d_printer/controller_debug"
 caption = "Electronics debugging after a power supply failure"
 %}
 
@@ -30,12 +30,12 @@ The core components are:
 - E3D V6 hot end
 
 {% include image.html
-file = "delta_3d_printer/first_print.jpeg"
+file = "delta_3d_printer/first_print"
 caption = "Shortly after the first print"
 %}
 
 {% include image.html
-file = "delta_3d_printer/final_cleanup.png"
+file = "delta_3d_printer/final_cleanup"
 caption = "Prettied up after several months up constant use"
 %}
 
@@ -46,25 +46,25 @@ Numerical methods was one of my favourite courses during my undergrad. We were t
 We decided to look at optimizing the extruder of the printer. The extruder melts the plastic filament in a small chamber called the hot end. The melted plastic can be extruded at a controlled rate by pushing new, non melted plastic into the hot end. The transition from cold to hot must be very short. If there is too much heat leakage, the filament you are attempting to push will melt, causing the printer to clog.
 
 {% include image.html
-file = "3d_printer_extruder_optimization/solidworks_screenshot.png"
+file = "3d_printer_extruder_optimization/solidworks_screenshot"
 caption = "The extruder design was based on the E3D V6"
 %}
 
 Looking at the model above, we can see how E3D approached the problem: A very narrow heat break to reduce conduction and then large heat sinks to quickly dispel any heat. The heat break should be constructed of a relatively insulating material. Of all the metals stanless steel would be the best choice due to the availability, durability (so the walls can be thin), and relatively low thermal conductivity. A high temperature plastic could also be considered, but that was out of the scope of the project. The project instead chose to focus on the heat sink itself. A few variations are presented below. The simulations were preformed in Ansys.
 
 {% include image.html
-file = "3d_printer_extruder_optimization/sim_results.png"
+file = "3d_printer_extruder_optimization/sim_results"
 caption = "Ansys simulation results"
 %}
 
 As would be expected, the larger fins provide the best results. I machined the best perfoming model and we presented the "real world" results versus the standard E3D hot end with the help of some thermocouples. The results closely matched the simulations.
 
 {% include image.html
-file = "3d_printer_extruder_optimization/machining_1.jpeg"
+file = "3d_printer_extruder_optimization/machining_1"
 caption = ""
 %}
 
 {% include image.html
-file = "3d_printer_extruder_optimization/finished.jpeg"
+file = "3d_printer_extruder_optimization/finished"
 caption = ""
 %}

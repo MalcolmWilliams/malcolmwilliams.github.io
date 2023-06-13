@@ -31,6 +31,16 @@ Process the images with:
 gulp images
 ```
 
+## Testing page speed locally with lighthouse
+
+```
+npm install -g lighthouse
+```
+
+```
+lighthouse http://0.0.0.0:4000/ --view
+```
+
 # Tips:
 
 Helpful script to convert `*.HEIC` images to jpg:
