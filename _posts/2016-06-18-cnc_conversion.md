@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "CNC Conversion"
-date:   2016-06-18 12:00:00 -0400
+title: "CNC Conversion"
+date: 2016-06-18 12:00:00 -0400
 categories: [mechanical]
 img: /cnc_conversion/finished_mech_conversion.jpeg
 ---
-
 
 3D printers are very useful and have their place, but for serious parts a CNC is a proven necessity.
 This project is the conversion of a Craftex CX601 mill into a capable CNC mill.
@@ -35,7 +34,7 @@ file = "cnc_conversion/mid_conversion_2.jpeg"
 caption = ""
 %}
 
-The mill's spindle is R8, but most of the work will be small, so for convenience a Tormach Tooling System (TTS) adapter and a number of ER20 collects were purchased. The straight shank and positive interface of the TTS allows for a number of permemnatly setup tools with measured offsets to facilitate toolchanges. 
+The mill's spindle is R8, but most of the work will be small, so for convenience a Tormach Tooling System (TTS) adapter and a number of ER20 collects were purchased. The straight shank and positive interface of the TTS allows for a number of permemnatly setup tools with measured offsets to facilitate toolchanges.
 
 {% include image.html
 file = "cnc_conversion/tooling.jpeg"
@@ -58,5 +57,3 @@ caption = "Close up view in progress"
 file = "cnc_conversion/wankel_cutting_completed.jpeg"
 caption = "Final demo piece"
 %}
-
-
