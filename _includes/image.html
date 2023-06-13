@@ -3,13 +3,14 @@
 <style>
   figure {
     text-align: center;
-    <!-- border: 1px solid #ccc; -->
-    <!-- padding: 10px; -->
   }
 </style>
 
 <figure>
-  <img src="/{{ media }}/{{ include.file }}" data-zoomable>
+  <a href="/{{ media }}/{{ include.file }}" data-lightbox="default-gallery">
+    <img src="/{{ media }}/{{ include.file }}">
+  </a>
   <figcaption> {{include.caption}} </figcaption>
 </figure>
+
 

@@ -4,11 +4,10 @@
   {%- include head.html -%}
 
   <body>
-  <script src="{{ site.baseurl }}/node_modules/medium-zoom/dist/medium-zoom.min.js"></script>
 
     {%- include header.html -%}
 
-    <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image" data-zoomable>
+    <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image" >
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -18,9 +17,6 @@
 
     {%- include footer.html -%}
 
-  <script>
-    mediumZoom('img[data-zoomable]');
-  </script>
   </body>
 
 </html>
