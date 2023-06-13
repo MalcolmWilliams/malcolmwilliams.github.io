@@ -16,7 +16,13 @@ bundle exec jekyll serve
 
 View the site at: `http://localhost:4000`
 
-## Generating responsive images:
+# Improving site performance:
+
+As this is a visual media heavy portfolio, images are by far the largest source of poor performance. The best approaches to improving performance is responsive image loading and using efficient encoding schemes. Thanks to these changes the PageSpeed performance score was improved from a laggy 37 to a blisteringt 91. [before](https://pagespeed.web.dev/analysis/https-malcolmwilliams-ca-artwork-2023-06-10-artwork-html/pnrdknalok?form_factor=mobile), [after](https://pagespeed.web.dev/analysis/https-malcolmwilliams-ca-artwork-2023-06-10-artwork-html/6b10ldrb9c?form_factor=mobile).
+
+From each image in the `assets` folder, multiple smaller images can be generated automatically using a `gulp` task. We will generate jpg (for maximum compatibility) and webp (for maximum compression efficiency).
+
+### Generating responsive images:
 
 Install `gulp`
 
@@ -31,7 +37,7 @@ Process the images with:
 gulp images
 ```
 
-## Testing page speed locally with lighthouse
+### Testing page speed locally with lighthouse
 
 ```
 npm install -g lighthouse
