@@ -16,6 +16,21 @@ bundle exec jekyll serve
 
 View the site at: `http://localhost:4000`
 
+## Generating responsive images:
+
+Install `gulp`
+
+```
+npm install --global gulp-cli
+npm install --save-dev gulp gulp-responsive
+```
+
+Process the images with:
+
+```
+gulp images
+```
+
 # Tips:
 
 Helpful script to convert `*.HEIC` images to jpg:
