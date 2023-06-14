@@ -1,13 +1,23 @@
-{% assign image_path = site.baseurl | append: "/processed_imgs/assets/" %} {%
-capture srcset %} {{ image_path }}{{ include.file }}-320.jpg 320w, {{ image_path
-}}{{ include.file }}-640.jpg 640w, {{ image_path }}{{ include.file }}-1280.jpg
-1280w, {{ image_path }}{{ include.file }}-1920.jpg 1920w {% endcapture %} {%
-capture webp_srcset %} {{ image_path }}{{ include.file }}-320.webp 320w, {{
-image_path }}{{ include.file }}-640.webp 640w, {{ image_path }}{{ include.file
-}}-1280.webp 1280w, {{ image_path }}{{ include.file }}-1920.webp 1920w {%
-endcapture %} {% capture supports_webp %} {% if page.webp_support %} true {%
-endif %} {% endcapture %} {% assign final_srcset = supports_webp | json ==
-'true' ? webp_srcset : srcset %}
+{% assign image_path = site.baseurl | append: '/processed_imgs/assets/' %}
+{% capture srcset %}
+  {{ image_path }}{{ include.file }}-320.jpg 320w,
+  {{ image_path }}{{ include.file }}-640.jpg 640w,
+  {{ image_path }}{{ include.file }}-1280.jpg 1280w,
+  {{ image_path }}{{ include.file }}-1920.jpg 1920w
+{% endcapture %}
+{% capture webp_srcset %}
+    {{ image_path }}{{ include.file }}-320.webp 320w,
+    {{ image_path }}{{ include.file }}-640.webp 640w,
+    {{ image_path }}{{ include.file }}-1280.webp 1280w,
+    {{ image_path }}{{ include.file }}-1920.webp 1920w
+{% endcapture %}
+{% capture supports_webp %}
+  {% if page.webp_support %} true {%endif %}
+  {% endcapture %}
+{%
+  assign final_srcset = supports_webp | json ==
+  'true' ? webp_srcset : srcset
+%}
 
 <style>
   figure {
@@ -21,13 +31,16 @@ endif %} {% endcapture %} {% assign final_srcset = supports_webp | json ==
     data-lightbox="default-gallery"
   >
     <img
-      src="{{ image_path }}{{ include.file }}-320.jpg"
+      src="{{ image_path }}{{ include.file }}-1920.jpg"
       srcset="{{final_srcset}}"
-      sizes="(max-width: 600px) 320px,
-              (max-width: 1024px) 640px,
-              1024px"
+      sizes="
+        (max-width: 480px) 320px,
+        (max-width: 960px) 640px,
+        (max-width: 1440px) 1280px,
+        1920px
+      "
       alt="{{include.caption}}"
-    />
+    >
   </a>
-  <figcaption>{{include.caption}}</figcaption>
+  <figcaption>{{ include.caption }}</figcaption>
 </figure>
