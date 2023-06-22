@@ -28,5 +28,5 @@ gulp.task("images", function () {
         }
       )
     )
-    .pipe(gulp.dest("responsive_imgs"));
+    .pipe(gulp.dest("processed_imgs"));
 });

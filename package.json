@@ -1,0 +1,25 @@
+{
+  "name": "malcolmwilliams.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalcolmWilliams/malcolmwilliams.github.io.git"
+  },
+  "author": "Malcolm Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalcolmWilliams/malcolmwilliams.github.io/issues"
+  },
+  "homepage": "https://github.com/MalcolmWilliams/malcolmwilliams.github.io#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-responsive": "^3.0.1"
+  }
+}
