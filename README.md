@@ -11,10 +11,12 @@ Follow the Jekyll docs for installation intructions: https://jekyllrb.com/docs/
 Serve locally with:
 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --host 0.0.0.0
 ```
 
 View the site at: `http://localhost:4000`
+
+> :note: Adding the `--host 0.0.0.0` option allows us to listen to all available IP addresses. This means we can preview the locally served development website on another device on the local network, such as a cellphone.
 
 # Improving site performance:
 
