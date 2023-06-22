@@ -25,6 +25,7 @@ gulp.task("images", function () {
           compressionLevel: 6,
           withMetadata: false, //true
           withoutEnlargement: false,
+          rotate: true,
         }
       )
     )
