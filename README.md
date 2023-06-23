@@ -3,8 +3,40 @@
 This is a portfolio website made with Jekyll and GitHub Pages. The goal of this project is to have a simple, clean and free way to easily share projects I have been working on.
 
 # Instructions:
+This project relies on Ruby 3, and Node 14.
 
-Follow the Jekyll docs for installation intructions: https://jekyllrb.com/docs/
+Follow the Jekyll docs for [installation intructions](https://jekyllrb.com/docs/installation/ubuntu/).
+```
+sudo apt-get install ruby-full build-essential zlib1g-dev
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+gem install jekyll bundler
+```
+
+Install the required gems:
+```
+bundle install
+```
+
+Install node requirements:
+```
+npm install
+```
+
+Note, this was tested on the following versions:
+```
+node 14.19.3
+npm 6.14.17
+```
+If there are installation errors, you may want to check your node version and install to match:
+```
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n 14.19
+```
+
 
 # Development:
 
@@ -26,17 +58,9 @@ From each image in the `assets` folder, multiple smaller images can be generated
 
 ### Generating responsive images:
 
-Install `gulp`
-
+Gulp is configured as a script in `package.json`. To generate new responsive images, simply:
 ```
-npm install --global gulp-cli
-npm install --save-dev gulp gulp-responsive
-```
-
-Process the images with:
-
-```
-gulp images
+npm run gulp images
 ```
 
 ### Testing page speed locally with lighthouse

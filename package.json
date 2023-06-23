@@ -4,7 +4,8 @@
   "description": "Portfolio Website",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "./node_modules/.bin/gulp"
   },
   "repository": {
     "type": "git",
@@ -16,10 +17,10 @@
     "url": "https://github.com/MalcolmWilliams/malcolmwilliams.github.io/issues"
   },
   "homepage": "https://github.com/MalcolmWilliams/malcolmwilliams.github.io#readme",
-  "dependencies": {},
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0",
-    "gulp-responsive": "^3.0.1"
+    "gulp-responsive": "^3.0.1",
+    "lighthouse": "^10.3.0"
   }
 }
