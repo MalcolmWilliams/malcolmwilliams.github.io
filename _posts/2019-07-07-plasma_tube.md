@@ -3,7 +3,7 @@ layout: post
 title: "Plasma Tube"
 date: 2019-07-07 12:00:00 -0400
 categories: [mechanical]
-img: /plasma_tube/big_tube_on.jpg
+img: plasma_tube/big_tube_on
 ---
 
 First, the end result:

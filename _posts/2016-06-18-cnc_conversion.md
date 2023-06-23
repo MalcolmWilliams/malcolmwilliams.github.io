@@ -3,7 +3,7 @@ layout: post
 title: "CNC Conversion"
 date: 2016-06-18 12:00:00 -0400
 categories: [mechanical]
-img: /cnc_conversion/finished_mech_conversion.jpeg
+img: cnc_conversion/finished_mech_conversion
 ---
 
 3D printers are very useful and have their place, but for serious parts a CNC is a proven necessity.

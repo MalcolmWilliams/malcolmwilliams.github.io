@@ -3,7 +3,7 @@ layout: post
 title: "Delta 3D Printer"
 date: 2015-03-09 12:00:00 -0400
 categories: [mechanical]
-img: /delta_3d_printer/render.jpeg
+img: delta_3d_printer/render
 ---
 
 This 3D printer was a challenging mechanical project. I started it in the first year of my undergrad and finished it while on Chirstmas break.

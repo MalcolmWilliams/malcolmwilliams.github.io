@@ -13,34 +13,42 @@
 {% endcapture %}
 {% capture supports_webp %}
   {% if page.webp_support %} true {%endif %}
-  {% endcapture %}
+{% endcapture %}
 {%
   assign final_srcset = supports_webp | json ==
   'true' ? webp_srcset : srcset
 %}
 
+{% capture img %}
+<img
+  src="{{ image_path }}{{ include.file }}-1920.jpg"
+  srcset="{{final_srcset}}"
+  sizes="
+    (max-width: 480px) 320px,
+    (max-width: 960px) 640px,
+    (max-width: 1440px) 1280px,
+    1920px
+  "
+  alt="{{include.caption}}"
+>
+{% endcapture %}
+
+
+{% if include.suppress_link %}
+{{ img }}
+{% else %}
 <style>
   figure {
     text-align: center;
   }
 </style>
-
 <figure>
   <a
     href="{{ image_path }}{{ include.file }}-1920.jpg"
     data-lightbox="default-gallery"
   >
-    <img
-      src="{{ image_path }}{{ include.file }}-1920.jpg"
-      srcset="{{final_srcset}}"
-      sizes="
-        (max-width: 480px) 320px,
-        (max-width: 960px) 640px,
-        (max-width: 1440px) 1280px,
-        1920px
-      "
-      alt="{{include.caption}}"
-    >
+    {{ img }}
   </a>
   <figcaption>{{ include.caption }}</figcaption>
 </figure>
+{% endif %}
