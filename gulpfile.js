@@ -23,7 +23,7 @@ gulp.task("images", function () {
           quality: 70,
           progressive: true,
           compressionLevel: 6,
-          withMetadata: false, //true
+          withMetadata: false,
           withoutEnlargement: false,
           rotate: true,
         }
