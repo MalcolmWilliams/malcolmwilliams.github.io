@@ -87,7 +87,7 @@ Hiker hunger is also a real thing. When starting out I would use an app (MyFitne
 ### Housing
 I opted to not sleep at a holiday park/campground when in town, instead opting for hostels/cheap hotels when available. The relatively small number of days spent in town (except for a few days at the end of the trip) meant that this total was relatively small. This total also includes the DOC hut pass, and other paid campsites (such as on the great walks)
 
-# Transport
+### Transport
 The lions share of this is flights to/from New Zealand. Canada is quite far away. Hitch hiking or public transit was used often.
 
 
@@ -97,19 +97,3 @@ As can be seen on other parts of this website, I enjoy tools. Hiking gear is no 
 
 ![gear image before]()
 ![gear image after]()
-
-
-The posts will be organized into specific subjects:
-- Top 10 photos
-- Trip Logs
-    - Oreti Beach to Colac Bay
-    - Longwoods and Takitimus
-    - Kepler Track
-    - Mararoa River and Mavora Lakes
-    - Motatapus
-    - Wanaka, Hawea, Breast Hill, Melinda Ridge, Ahuriri river
-    - Mt Cook, Ohau to Tekapo
-    - Two Thumb Range, Stag Saddle,
-    - Arthurs Pass
-    - Nelson Lakes
-    - Richmond Ranges
