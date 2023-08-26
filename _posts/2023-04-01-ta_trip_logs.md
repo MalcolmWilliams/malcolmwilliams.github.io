@@ -13,22 +13,17 @@ Other posts can be found here:
 These trip logs detail each section of the trip. I only walked the South Island, but did take any alternate routes that I thought were interested. As explained in the overview, I though of the TA as more of a guideline than a strict path to follow.
 
 To jump directly to a section,  click on one of the links below:
-- Oreti Beach to Colac Bay
-- Longwoods and Takitimus
-- Kepler Track
-- Mararoa River and Mavora Lakes
-- Motatapus
-- Wanaka, Hawea, Breast Hill, Melinda Ridge, Ahuriri river
-- Mt Cook, Ohau to Tekapo
-- Two Thumb Range, Stag Saddle,
-- Arthurs Pass
-- Nelson Lakes
-- Richmond Ranges
-
-{% include image.html
-file = "new_zealand/trip_logs/"
-caption=""
-%}
+- [Oreti Beach to Colac Bay](#oreti-beach-to-colac-bay)
+- [Longwoods and Takitimus](#longwoods-and-takitimus)
+- [Kepler Track](#kepler-track)
+- [Mararoa River, Mavora Lakes and Routeburn](#mararoa-river-mavora-lakes-and-routeburn)
+- [Motatapus](#motatapus)
+- [Breast Hill, Melinda Ridge and the Ahuriri river](#breast-hill-melinda-ridge-and-the-ahuriri-river)
+- [Mt Cook, Ohau to Tekapo](#mt-cook-ohau-to-tekapo)
+- [Two Thumb Range, Stag Saddle](#two-thumb-range-stag-saddle)
+- [Arthurs Pass](#arthurs-pass)
+- [Nelson Lakes](#nelson-lakes)
+- [Richmond Ranges](#richmond-ranges)
 
 ## Oreti Beach to Colac Bay
 Part of the reason why I decided to go northbound was the easier start. The beaches don't receive much love as they are generally flat and deemed "uninteresting". They are flat, but the walking is easy as the sand is quite compacted. I would also say they are quite interesting - on your left you can see Stewart Island, and in the distance you can see the various hills slowly approaching.
@@ -72,4 +67,65 @@ caption="Sunset rainbow over the mountains"
 
 ## Kepler Track
 
-I diverted to Te Anau and did the Kepler great walk. Due to cost and availability you will almost certainly need to book a campsite as this is a popular great walk. However, do not let the popularity steer you away from it - it is completely worth the time.
+I diverted to Te Anau and did the Kepler great walk. Due to cost and availability you will almost certainly need to book a campsite as this is a popular great walk. However, do not let the popularity steer you away from it - it is completely worth the time. The trails are crowded and easy walking by TA standards. However, there are still sections that are almost completely deserted. The alpine sections were my favourite, and I actually opted to walk it twice. On the first day I left late in the afternoon as it was only a short walk to the Brod Bay campsite. The second day was longer as I skipped the Luxmore hut and went directly to the Iris Burn campsite. A detour to the caves and the summit of Mount Luxmore was certainly worthwhile. At the summit I saw my first Keas. On the third day I was originally planning to complete the loop via the river, however I enjoyed the alpine section so much I decided to instead retrace my steps. as I had to go all the way back to my hostel it was a longer day and my feet were very sore by the end. By the end I was regretting my decision to do the summit a second time.
+
+## Mararoa River, Mavora Lakes and Routeburn
+
+After a hitch from Te Anau I started the next section. There was nearly 40km of gravel road with limited water available. I enjoyed the almost hypnotic nature of the straight road and the solitude, but when I saw a car approaching decided to take my chances with a hitch. A lovely american couple picked my up - they were touring around the various Lord of the Rings filming locations, and just up ahead was the river Anduin and the breaking of the fellowship. The walk along the shore of the North Mavora Lake was very impressive - there was some trail, but mostly it was just along the gravel shores. There were signs of quads/motorcycles and just to the south was a popular campground, but I did not see any people. Exploring New Zealand by motorcycle would be fantastic to do one day.
+
+road with clouds image
+breaking of fellowship image
+{% include image.html
+file = "new_zealand/trip_logs/"
+caption=""
+%}
+
+I had brought enough food that I could extend the walk by a few days if desired. At this point I was still getting my legs under me, but feeling good. I'd succesfully hiked larger days that I had done in the past and was feeling fit and strong. At the Greenstone hut you have the option of folowing the TA which takes you to Elfin Bay on the shores of Lake Wakatipu, or you can follow the Greenstone Valley North West and join on to the Routeburn Great Walk. Having Enjoyed the Kepler and with the provisions to do so, I decided to take the latter option. I'd heard of a campsite off of the Routeburn which would allow me to stay without having to worry about reservations. Following the Caples Valley would have also been a reaonable alternative to the Greenstone Valley, but it was slightly further and did not offer any advantages that I could see. I camped at the Greenstone saddle, although I believe there were also options to camp at the site of the former McKeller hut. This hut had been taken out by a rock slide a few years earlier, so somehow this did not seem like the ideal location. Or perhaps that makes it a better location as maybe this means that the precipitous rocks had already precipitated.
+
+DOC did choose aptly when they called the walks "great walks". Routeburn has some spectacular vistas from and approaching Conicle Hill. You can look all the way down the Holyford valley and out to the sea. There had recently been some cold weather and the taller mountains were still snow capped. Those mountains are normally glaciated, but a fresh snowfall is much nicer than a sad old grey glacier in my opinion. I later learned the "secret" campsite in the Valley of the Trolls was not actually so secret. A few weeks later I saw it on the front cover of a backpacking magazine from the early 2000's. Regardless, it was relatively easy to access being only a km or two past Lake Harris. The number of suitable camping locations is relatively limited as the ground is quite boggy. I only discovered it later, but the hike up to the further Lake Wilson would have provided a better camping location. On the day after I met a man starting the Serpentine Route. This is another one that I'd like to add to the list for later. Near the end of the route I met a fellow canadian who was kind enough to drive me to Queenstown - along the way he told me stories of his impressive 75km/16hr trail run in a park not far from my home. All of the incredible hiking on the other side of the world also reminded me that there are many incredible opportunities seemingly in my backyard.
+
+## Motatapus
+
+I had heard of an alternate route through cascade saddle - this is something I would have been very interested in pursuing, but ultimately decided not to. In the end this ended up being a good decision as I met a hiking partner in the Motatapus that I would not have otherwise met. The elevation profile of the hike shows what to expect in this section. It can be summarised as (up, down)*5. I found many other sections of the TA followed trails that were originally means of transport. They would follow the path of least resistance through the land, often down valleys next to rivers, and crossing valleys at the best saddle available. The Motatapus were different. From my understanding the trail and associated huts were developed as part of the lease agreement for the land. Famously by some dude that will be forever known as Shania Twain's ex husband. For this reason they certainly did _not_ follow the path of least resistance. However, I was not there to hike on flat ground. This was important to remind myself of when struggling up a hill and looking down at a road that would have been far easier.
+
+{% include image.html
+file = "new_zealand/trip_logs/"
+caption=""
+%}
+
+## Breast Hill, Melinda Ridge and the Ahuriri river
+{% include image.html
+file = "new_zealand/trip_logs/"
+caption=""
+%}
+
+## Mt Cook, Ohau to Tekapo
+{% include image.html
+file = "new_zealand/trip_logs/"
+caption=""
+%}
+
+## Two Thumb Range, Stag Saddle
+{% include image.html
+file = "new_zealand/trip_logs/"
+caption=""
+%}
+
+## Arthurs Pass
+{% include image.html
+file = "new_zealand/trip_logs/"
+caption=""
+%}
+
+## Nelson Lakes
+{% include image.html
+file = "new_zealand/trip_logs/"
+caption=""
+%}
+
+## Richmond Ranges
+
+{% include image.html
+file = "new_zealand/trip_logs/"
+caption=""
+%}
