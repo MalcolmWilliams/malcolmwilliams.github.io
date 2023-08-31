@@ -95,5 +95,9 @@ The lions share of this is flights to/from New Zealand. Canada is quite far away
 
 As can be seen on other parts of this website, I enjoy tools. Hiking gear is no different. Additionally, when you spend so much time with your equipment you have a lot of time to think about how it performs, what deficiencies there are, and what improvements may be possible. As much as possible I tried to use equipment that I already had, even if it was heavier than what is available elsewhere. For the items I did opt to upgrade, I tried to make sure they were of high quality.
 
+FarOut - definitely worth the money, however in some ways I feel is a double edged sword. I didn't use it for approximately the first half, and that meant I had to rely on other data sources more. Google maps, talkign to people, etc. The suggestions in Far Out are certainly excellent, but I think guide the overall experience to be more "on the rails", and you really really end up being in the hiker bubble.
+
+Garmin vs SPOT
+
 ![gear image before]()
 ![gear image after]()

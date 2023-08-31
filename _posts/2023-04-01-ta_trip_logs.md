@@ -86,7 +86,7 @@ DOC did choose aptly when they called the walks "great walks". Routeburn has som
 
 ## Motatapus
 
-I had heard of an alternate route through cascade saddle - this is something I would have been very interested in pursuing, but ultimately decided not to. In the end this ended up being a good decision as I met a hiking partner in the Motatapus that I would not have otherwise met. The elevation profile of the hike shows what to expect in this section. It can be summarised as (up, down)*5. I found many other sections of the TA followed trails that were originally means of transport. They would follow the path of least resistance through the land, often down valleys next to rivers, and crossing valleys at the best saddle available. The Motatapus were different. From my understanding the trail and associated huts were developed as part of the lease agreement for the land. Famously by some dude that will be forever known as Shania Twain's ex husband. For this reason they certainly did _not_ follow the path of least resistance. However, I was not there to hike on flat ground. This was important to remind myself of when struggling up a hill and looking down at a road that would have been far easier.
+I had heard of an alternate route through cascade saddle - this is something I would have been very interested in pursuing, but ultimately decided not to. In the end this ended up being a good decision as I met a hiking partner in the Motatapus that I would not have otherwise met. The elevation profile of the hike shows what to expect in this section. It can be summarised as (up, down)x5. I found many other sections of the TA followed trails that were originally means of transport. They would follow the path of least resistance through the land, often down valleys next to rivers, and crossing valleys at the best saddle available. The Motatapus were different. From my understanding the trail and associated huts were developed as part of the lease agreement for the land. Famously by some dude that will be forever known as Shania Twain's ex husband. For this reason they certainly did _not_ follow the path of least resistance. However, I was not there to hike on flat ground. This was important to remind myself of when struggling up a hill and looking down at a road that would have been far easier.
 
 {% include image.html
 file = "new_zealand/trip_logs/"
@@ -94,24 +94,48 @@ caption=""
 %}
 
 ## Breast Hill, Melinda Ridge and the Ahuriri river
+
+Heavy rain was in the forcast so an extra day was spent in Wanaka. We then later hitched to Hawea and stayed at the holiday park by the lake. The Hawea holiday park is much better than the one in Wanaka, particularly if you are tenting. It's much more spacious and it's possible to get a great tent site by the lake. The next say was a sustained climb up Breast Hill. The view back on to Hawea lake was worth the effort. We were lucky to have great visibility, and it is billed as one of the best views on the TA for good reason. Despite the wind and the cold, we decided to camp out on the top of the hill for the sunset and sunrise. This really pushed the limits of my MacPac quilt. In the morning everything was frozen. I didn't remember any rain during the night (and I'm not sure I managed to sleep due to the cold), so I think that it was condensation from the clouds that moved in overnight and the morning dew. Since there was no force of the rain, the ice crystals were incredibly delicate and even.
+
+sleeping bag picture
+frost on tent picture
+
+
+After breast hill the TA follows the Timaru river, past Top Timaru hut, and up to Martha's Saddle. However, looking at the Topo maps there is an alternate route that can be taken along Melinda Ridge. I thought this looked like a quite interesting option but was already out of cell range so could not do much research. A few hours later I caught up to my hiking partner just before the junction and we decided to attempt it together. I fully comment on the route the TA actually follows, I'm sure it's wonderful, but I can say the ridge was spectacular. There are several peaks nearby that the ambitions can attempt. These include Mount Prospect and an unamed peak that is only 100-200m from the trail and should not be missed. After rejoining the TA we were met with the first major river crossing, the Ahuriri river. As the water levels were low and it was a 10km detour to a bridge we decided to cross. Some experimentation later and we felt ready to fully cross. The water level reached mid thigh and was swift, but it was very do-able. The descent into and out of the river valley was a great experience. You drop out of the mountains and into a perfectly flat plain that stretches several kilometers wide. Halfway through you stumble upon a deep cleft in the plain that the river has carved out. The valley appearing out of nowhere reminded me of the road into Drumheller, Alberta. After crossing the main river you follow an arm along a valley into Ohau. I had slightly miscalculated food and was out by this time. I'd also miscalculated the size of the Ohau... and the fact that it did not have a grocery store. The closest option was the Ohau lodge, and one of their three course meals. I think we may have brought the median age in the dining room down by 15 years, and may have raised some eyebrows with the atire, but the fodd was excellent. I had heard of their legendary nachos, but unfortunately arrived to late for these.
+
 {% include image.html
 file = "new_zealand/trip_logs/"
 caption=""
 %}
 
 ## Mt Cook, Ohau to Tekapo
+
+The legal camping options from Ohau to Tekapo are slim. Some people opt to walk all day and night, some rent bikes. We couldn't secure bikes, so in the end we ended up hitching. However, before doing this we took a side tour to Mount Cook. In a perfect world this would have been excellent to bike. The couple that picked us up said there was one condition we would have to agree to - stopping at a lavender farm for icecream. This was OK by me. Lake Pukai is such a brilliant blue it is hard to believe, and the mountain valley surrounding the walk up to Mount Cook is quite surreal. We arrived later in the evening and decided to jog to Hooker Valley track at sunset. Why it's so popular during the day, and then empty at the most beautiful time is somewhat beyond me. As the tallest mountain in the country it has the interesting effect of being the last that the sun hits. This highlights just the snow capped peak and none of the surrounding lesser mountains. The moon came out from behind the mountain as well to complete the picture.
+
 {% include image.html
 file = "new_zealand/trip_logs/"
 caption=""
 %}
 
 ## Two Thumb Range, Stag Saddle
+
+From the town of Tekapo you follow the eastern shore of the lake north before veering east into the Two Thumb Range. We camped a km or two from the city, and jogged back in the morning to throw out some glass beer bottles that we didn't want to carry. While running we ran into a hiker that was heading Northbound. We congratulated them on the progress so far. I'm not sure what she thought of two people running in the wrong direction without bags claiming to also be northbound hikers. We never caught up with her.
+
+Progress up the lake was slow, however this just meant we had another excellent opportunity to camp near its shores. On the next day, we made it to Stag Saddle, the highest official point on the TA. Next to the saddle is Beuzenberg peak. As this is only a extra 150m climb but is the tallest peak nearby this is definitely worth it. Viewing the sunset from here was marvelous, but did mean that we had to setup camp in the bowl to the south of the saddle in the dark. The next morning the clouds rolled in and there was very limited visibility. Another reason to be grateful for the excellent weather so far. I didn't hear of anyone actually taking the "official" route along Camp Stream as opposed to the ridge to the saddle. We took the Forest Creek alternate route out to the Rangitata River. The weather was poor and it was a slog to exit. Thinking back now though it was a good experience, and the first cappuccino and excellent muffin at the cafe in Geraldine maybe made it all worth it.
+
 {% include image.html
 file = "new_zealand/trip_logs/"
 caption=""
 %}
 
-## Arthurs Pass
+## Arthur's Pass
+
+A reader familiar with the TA might notice a large jump here. I'd heard varying accounts about the section between the Rangitata and Rakaia rivers. Some said it was "miss-able", some said it was their favourite sections. From what I could gather it was one of the sections that was the most frequently skipped. In the end the decision was made with time in mind. It would have been possible to complete the hike in time, but the schedule would have been more pressed, and I would not have had the flexibility to do additional side trips. From Geraldine we hitched to the town of Arthur's pass over the course of two days. Along we way we met a number of wonderful people, one of which invited us to stay at his family farm. A place so delightful should not be allowed to exist. At one point while touring the farm with the sun setting behind the mountains in the distance, half a dozen horses trotted up. They were retired race horses just living their best life.
+
+After making it to Arthur's pass and unpacking our bounce boxes, we headed back south to rejoin the trail. People were rushing off it as there were heavy rains forecast for the next few days. However, we had packed far too much in our boxes and so would more than welcome being stuck being in a hut for a few days waiting for rivers to become cross-able. In the end it worked out perfectly, thanks to our poor packing.
+
+At Goat Pass Hut there was a mountain radio with instructions for operation. I used it and requested a weather report. The response was so garbled there was no possible way it could be of use. After two attempts I thanked the kind operator and crossed my fingers. Cell service was available again near the Morrison footbridge so I was able to check in and get weather updates for the next few days.
+
 {% include image.html
 file = "new_zealand/trip_logs/"
 caption=""
