@@ -60,7 +60,7 @@ The final decision to make was whether to hike northbound or southbound. Since I
 
 ## Budget Breakdown
 
-For reference for others considering a similar trip, I've sorted through my credit card statements and spent the following (slightly shocking) amount:
+For reference for others considering a similar trip, I've sorted through my credit card statements and spent the following (slightly shocking) amount. 10$ a kilometer seems like quite a lot of money but is not entirely unreasonably when you consider that most of the gear costs can be ammortized to future trips, and over two months you probably would have spent a similar amount on food, and certainly more on housing. Taking these into account the cost is roughtly half. As a vacation this therefore becomes very inexpensive.
 
 | Category  | Amount [CAD] |
 |-----------|--------------|
@@ -72,23 +72,25 @@ For reference for others considering a similar trip, I've sorted through my cred
 | Total     |        10000 |
 
 ### Gear:
-I will go further into my gear in the next section. This total includes Items that I purchased shortly before or during the trip. They include:
-- Tent
-- Quilt
-- Liner
-- 2x pairs of shoes
+I will go further into my gear in a future section. This total includes Items that I purchased shortly before or during the trip. They include:
+- Tent (Durston XMid 1P)
+- Quilt (NZAT 350 Down Quilt)
+- Sleeping bag liner
+- 2x pairs of shoes (Hoka Speedgoat 5)
 - Stove
+- Socks (Darn Tough)
+- Water Filter (Sawyer Squeeze)
 
 ### Food
 Food in new zealand is expensive. I would regularly spend > 200$ for a week of food. Shopping at larger stores and using bounce boxes certainly helps. When hiking you don't have a huge number of luxuries to look forward to. Food is a big one, and in my opinion not worth skimping on. A pretty significant portion of this amount is also spent at restaurants/coffee shops in towns. Generally only 1 night would be spent in town, but it is still enough to add up.
 
-Hiker hunger is also a real thing. When starting out I would use an app (MyFitnessPal/MyNetDairy) to count calories. This was helpful as I just didn't have the experience to look at a shopping cart and be confident it contained the right amount of food. On average I found I would eat ~5000 calories per day.
+Hiker hunger is also a real thing. When starting out I would use an app (MyFitnessPal/MyNetDairy) to count calories. This was helpful as I just didn't have the experience to look at a shopping cart and be confident it contained the right amount of food. On average I found I would eat ~5000 calories per day. I likely could have eaten less, but I was certainly glad to never have been hungry. Over the course of the two months I stayed almost identical weight, but I did notice that I lost the little fat I had on my stomach and gained muscle on my legs.
 
 ### Housing
-I opted to not sleep at a holiday park/campground when in town, instead opting for hostels/cheap hotels when available. The relatively small number of days spent in town (except for a few days at the end of the trip) meant that this total was relatively small. This total also includes the DOC hut pass, and other paid campsites (such as on the great walks)
+I opted to not sleep at a holiday park/campground when in town, instead opting for hostels/cheap hotels when available. The relatively small number of days spent in town (except for a few days at the end of the trip) meant that this total was relatively small. This total also includes the DOC hut pass, and other paid campsites (such as on the great walks).
 
 ### Transport
-The lions share of this is flights to/from New Zealand. Canada is quite far away. Hitch hiking or public transit was used often.
+The lions share of this is flights to/from New Zealand. Canada is quite far away. Hitch hiking or public transit was used often once actually in New Zealand.
 
 
 ## Gear Breakdown
