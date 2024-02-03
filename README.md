@@ -43,7 +43,7 @@ sudo n 14.19
 Serve locally with:
 
 ```
-bundle exec jekyll serve --host 0.0.0.0
+bundle exec jekyll serve --host 0.0.0.0 --drafts
 ```
 
 View the site at: `http://localhost:4000`
